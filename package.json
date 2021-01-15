@@ -1,8 +1,7 @@
 {
-  "name": "myApp",
+  "name": "DOC180",
   "version": "0.0.1",
-  "author": "Ionic Framework",
-  "homepage": "https://ionicframework.com/",
+  "author": "Tiago Martins",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -52,5 +51,5 @@
     "tslint": "~6.1.0",
     "typescript": "~3.9.5"
   },
-  "description": "An Ionic project"
+  "description": "Projeto do DOC 180"
 }
